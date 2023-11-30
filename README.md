@@ -10,7 +10,7 @@ Soy Clara, una analista de datos enfocada en proporcionar insights valiosos y so
 
 ## Proyectos Destacados
 
-### [Dashboard Interactivo]
+### [Dashboard Interactivo](https://github.com/claramaripe/claramarino.github.io/blob/c3e8c151b3f8a6c03f3c2d9ef543ae10c2350603/Dashboard.pdf)
 
 Breve descripción del dashboard interactivo que he creado, las tecnologías utilizadas y su impacto.
 
