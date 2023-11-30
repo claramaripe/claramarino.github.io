@@ -34,9 +34,6 @@ Mi enfoque se caracteriza por la claridad en la presentación de datos y la pulc
 
 ## Contacto
 
-¡Me encantaría conectarme contigo y hablar más sobre análisis de datos! Si tienes preguntas, sugerencias o simplemente quieres charlar:
-
-- **Correo Electrónico:** [cmarinomp@gmail.com](mailto:cmarinomp@gmail.com)
-- **Teléfono:** +34 610 969 668
+¡Me encantaría conectarme contigo y hablar más sobre análisis de datos!
 
 ¡Gracias por visitar mi portfolio! Espero que encuentres interesante mi trabajo. 🚀
