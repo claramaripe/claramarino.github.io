@@ -31,7 +31,7 @@ Soy Clara, una analista de datos enfocada en proporcionar insights valiosos y so
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1701448765345');
     var vizElement = divElement.getElementsByTagName('object')[0];
-  
+</script>
 ### [Proyecto en Python]
 
 Mención de un proyecto específico en Python, resaltando mi capacidad para trabajar con este lenguaje.
