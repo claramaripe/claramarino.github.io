@@ -13,6 +13,24 @@ Soy Clara, una analista de datos enfocada en proporcionar insights valiosos y so
 ### [Dashboard Interactivo]
 
 - [Dashboard sobre las competencias de los estudiantes.](https://github.com/claramaripe/claramarino.github.io/blob/c3e8c151b3f8a6c03f3c2d9ef543ae10c2350603/Dashboard.pdf)
+- ```html
+<div class='tableauPlaceholder' id='viz1701448765345' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt=' ' src='https://public.tableau.com/static/images/Re/RestauranteSantiagoResuelto/Dashboard1/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='RestauranteSantiagoResuelto&#47;Dashboard1' />
+        <!-- Otros parámetros aquí... -->
+    </object>
+</div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1701448765345');
+    var vizElement = divElement.getElementsByTagName('object')[0];
   
 ### [Proyecto en Python]
 
