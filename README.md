@@ -12,7 +12,7 @@ Soy Clara, una analista de datos enfocada en proporcionar insights valiosos y so
 
 ### [Dashboard Interactivo]
 
-- Dashboard sobre las competencias de los estudiantes.(https://github.com/claramaripe/claramarino.github.io/blob/c3e8c151b3f8a6c03f3c2d9ef543ae10c2350603/Dashboard.pdf)
+- [Dashboard sobre las competencias de los estudiantes.](https://github.com/claramaripe/claramarino.github.io/blob/c3e8c151b3f8a6c03f3c2d9ef543ae10c2350603/Dashboard.pdf)
   
 ### [Proyecto en Python]
 
